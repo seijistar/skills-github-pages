@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+title: Seijistar test!
 ---
+
+# intentions
+my first blog post
